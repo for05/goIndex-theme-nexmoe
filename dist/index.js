@@ -1,6 +1,6 @@
 const authConfig = {
-  "siteName": "GoIndex",  // 网站名称
-  "siteIcon": "//cdn.jsdelivr.net/gh/5MayRain/goIndex-theme-nexmoe@1.1.6/images/favicon.ico", //网站图标
+  "siteName": "Cyril's Files",  // 网站名称
+  "siteIcon": "//cdn.jsdelivr.net/gh/for05/ImageHosting@main/website/website/favicon.png", //网站图标
   "version": "2.0.5", // 程序版本
   "client_id": "",
   "client_secret": "",
@@ -79,16 +79,20 @@ const themeConfig = {
   // 强调色
   "accent_color": "blue",
   // 头像
-  "avatar": "//cdn.jsdelivr.net/gh/5MayRain/ImageHosting/Blog/Website/avatar.png",
+  "avatar": "//cdn.jsdelivr.net/gh/for05/ImageHosting@main/website/website/avatar.png",
   // 背景图片
-  "bimg": "//cdn.jsdelivr.net/gh/5MayRain/ImageHosting/Blog/Posts/2021/07/20/cover_01.jpg",
+  "bimg": "//cdn.jsdelivr.net/gh/for05/ImageHosting@main/website/website/cover.png",
   // 显示菜单
   "menu_show": true,
   // 菜单组
   "menus": [
     {
       name: "Blog",
-      url: "//mrzgh.top"
+      url: "//monose.eu.org"
+    },
+    {
+      name: "Wikipedia",
+      url: "//zh.wikipedia.org/wiki/User:for05"
     },
     {
       name: "Log in",
